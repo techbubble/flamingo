@@ -1,0 +1,8 @@
+Model Information:
+* title:	flamingo_rigged
+* source:	https://sketchfab.com/3d-models/flamingo-rigged-fe3e3b50c58c479d98dda1a6e7b40198
+* author:	pinotoon (https://sketchfab.com/pinotoon)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
